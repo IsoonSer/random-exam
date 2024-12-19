@@ -1,4 +1,13 @@
 
+## Run แบบ Dev บน localhost
+```bash
+# FE
+npm run dev
+# BE
+python3 app.py
+```
+
+## Docker Note
 ```bash
 docker build -t myapp:v1 .
 
